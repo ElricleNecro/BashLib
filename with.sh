@@ -2,7 +2,7 @@
 
 # We need the shell to stop the evaluation when a command fail, so that the with
 # block can be close, and the execution stopped.
-set -e
+# set -e
 
 #! Mark the end of line to use in the stack.
 EOL="
